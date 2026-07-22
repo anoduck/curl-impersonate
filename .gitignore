@@ -4,3 +4,11 @@ build/
 config.log
 config.status
 .DS_Store
+.pc/
+autom4te.cache/
+boringssl-*
+brotli-*
+nghttp2-*
+patches/series
+zlib-*
+zstd-*
